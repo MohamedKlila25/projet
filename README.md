@@ -15,7 +15,3 @@ All aspects of the project, including the algorithms, evaluation metrics, and pr
 - **Python** (pure implementation, no external ML libraries)
 - Standard libraries for data handling: `numpy`, `pandas` (optional for dataset manipulation)
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/music-genre-classification.git
