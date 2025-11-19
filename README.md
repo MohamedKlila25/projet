@@ -13,5 +13,4 @@ All aspects of the project, including the algorithms, evaluation metrics, and pr
 
 ## Technologies
 - **Python** (pure implementation, no external ML libraries)
-- Standard libraries for data handling: `numpy`, `pandas` (optional for dataset manipulation)
 
